@@ -1,0 +1,17 @@
+body
+{
+margin: 0;
+padding: 0;
+font-family: 'Ubuntu', sans-serif;
+background:  radial-gradient(circle, rgb(213, 214, 222), rgb(118, 140, 105));;
+
+}
+.port1{
+    padding:10%;
+    text-align: center;
+}
+
+.align{
+    padding-left: 40%;
+    text-align: left;
+}
